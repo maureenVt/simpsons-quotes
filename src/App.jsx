@@ -24,6 +24,7 @@ class App extends Component {
 			<div className="App">
 				<header className="App-header">
 					<img src={logo} className={work} alt="logo" />
+					// eslint-disable-next-line
 					<h1 className="App-title" className={appTitle}>
 						I never work guys
 					</h1>
